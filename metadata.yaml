@@ -1,0 +1,31 @@
+_repo: The-Phase-Rule-and-Its-Applications_34457
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Findlay, Alexander
+    aliases:
+    - Findlay, Alex
+    - Findlay, A. (Alexander)
+    birthdate: 1874
+    deathdate: 1966
+    gutenberg_agent_id: '37034'
+    url: http://www.gutenberg.org/2009/agents/37034
+description: ''
+gutenberg_issued: '2010-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Phase rule and equilibrium'
+- !lcsh 'Solution (Chemistry)'
+- !lcc 'QD'
+- !lcsh 'Chemistry, Physical and theoretical'
+title: The Phase Rule and Its Applications
+url: http://www.gutenberg.org/ebooks/34457
